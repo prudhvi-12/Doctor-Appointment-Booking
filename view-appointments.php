@@ -8,8 +8,6 @@
 <?php
         session_start();
    //to remove warnings from appearing on web page
-       if(!isset($_SESSION['id']))
-         header("location:patient-login.php");
        error_reporting(0);
  ?>
 <html>

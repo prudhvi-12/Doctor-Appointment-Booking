@@ -70,7 +70,7 @@
       </div>
     <form action="<?php echo $_SERVER['PHP_SELF']?>" method="post">
       <br>
-             <center><h1>Login</h1></center>
+             <center><h1>Patient Login</h1></center>
         <input type="text" name="gmail" placeholder="Enter your G-mail">
         <input type="password" name="password" placeholder="Enter your password">
         <center><button name="submit" value="submit">Login</button></center>

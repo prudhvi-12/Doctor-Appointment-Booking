@@ -34,7 +34,7 @@
                 font-family: "Lucida Console", "Courier New", monospace;
             }
             form{
-                margin:150px 300px;
+                margin:20px 300px;
             }
             img{
           position:absolute;
@@ -91,7 +91,8 @@
         $sql ="INSERT INTO patient(name,password,gmail,age,gender,address,id) VALUES('$name','$password','$gmail','$age','$gender','$address','$id')";
               if(!empty($name) && !empty($password) && !empty($gmail) && !empty($gender) && !empty($address) && mysqli_query($conn,$sql))
               {
-                echo '<script>alert("Data Inserted Succesfully")</script>';
+                echo '<script>alert("Account Creation Succesful")</script>';
+                header('location:patient-login.php');
               }
               else{
                 echo '<script>alert("Please fill the form completely")</script>';

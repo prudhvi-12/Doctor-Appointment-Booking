@@ -99,10 +99,10 @@ img{
                 $dept=$_SESSION["dept"];
                 $sql="SELECT id,name from doctor where dept='$dept'";
                 $res=mysqli_query($conn,$sql);
-                 ?>
-                       <center><h1>Choose Doctor</h1></center> 
+                 ?> 
                     <!-- Select doctor id instead of name  -->
-            <form action="<?php echo $_SERVER['PHP_SELF']?>" method="post">
+            <form action="<?php echo $_SERVER['PHP_SELF']?>" method="post">\
+            <center><h1>Choose Doctor</h1></center>
                 <select name="did" value="did" onchange="this.form.submit();">
                             <?php
                         while($row = mysqli_fetch_assoc($res))
