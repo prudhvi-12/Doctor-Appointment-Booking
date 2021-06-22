@@ -2,7 +2,7 @@
 
 • Designed a Web Application to book a Doctor’s Appointment Online.
 
-• Used HTML,CSS to create a Front-end that supports actions such as creating an account, book Appointment, Cancel
+• Used HTML,CSS to create a Front-end that supports actions such as Creating an account, Book Appointment, Cancel
 Appointment, list all Appointments, etc.
 
-• Used Php,MySql to store and retrieve the Customer’s Information from database.
+• Used PHP,MySQL to store and retrieve the Customer’s Information from database.
