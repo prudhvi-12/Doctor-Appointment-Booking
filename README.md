@@ -1,4 +1,4 @@
-Doctor Appointment Booking App | HTML, CSS, JavaScript, ,PHP, MySQL 
+# Doctor Appointment Booking App | HTML, CSS, JavaScript, ,PHP, MySQL 
 
 • Designed a Web Application to book a Doctor’s Appointment Online.
 
