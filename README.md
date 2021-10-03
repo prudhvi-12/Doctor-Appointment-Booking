@@ -6,3 +6,4 @@
 Appointment, list all Appointments, etc.
 
 • Used PHP,MySQL to store and retrieve the Customer’s Information from database.
+![Screenshot (241)](https://user-images.githubusercontent.com/85606009/135739294-d37dbb2c-638f-43d0-a414-4724c30167a9.png)
