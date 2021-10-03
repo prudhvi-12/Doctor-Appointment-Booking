@@ -13,7 +13,7 @@ Appointment, list all Appointments, etc.
 ![screencapture-localhost-OST-Doctor-Appointment-select-date-php-2021-10-03-10_08_24](https://user-images.githubusercontent.com/85606009/135740363-8d76d4b1-8e91-4548-af77-d2a3d491da94.png)
 ![screencapture-localhost-OST-Doctor-Appointment-select-time-php-2021-10-03-10_08_37](https://user-images.githubusercontent.com/85606009/135740371-7db63ad9-9e63-47f6-81a4-73d25cc60f91.png)
 
-All Appointments booked by patient
+      All Appointments booked by patient
 
 ![screencapture-localhost-OST-Doctor-Appointment-view-myappointments-php-2021-10-03-10_08_48](https://user-images.githubusercontent.com/85606009/135740380-b68ba325-9e2b-4549-b219-e0e4e2e87ec1.png)
 
@@ -26,7 +26,7 @@ All Appointments booked by patient
     All Appointments to be attended by Doctor
 ![screencapture-localhost-OST-Doctor-Appointment-view-myappointmentsdoc-php-2021-10-03-10_20_41](https://user-images.githubusercontent.com/85606009/135740438-495bd354-a799-469b-8a72-cd30f15accf5.png)
 
-    Now the patient will be able to see the prescrption added by the doctor
+    Now the patient will be able to see the prescription added by the doctor
 ![screencapture-localhost-OST-Doctor-Appointment-patient-login-php-2021-10-03-10_05_47](https://user-images.githubusercontent.com/85606009/135740560-60afa84e-098a-4a53-b553-3f565154ee01.png)
  
 ![screencapture-localhost-OST-Doctor-Appointment-view-myappointments-php-2021-10-03-10_15_10](https://user-images.githubusercontent.com/85606009/135740442-d9557d5a-fe40-4c76-a14f-07ba6018a09c.png)
