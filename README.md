@@ -21,5 +21,7 @@ All Appointments booked by patient
 ![screencapture-localhost-OST-Doctor-Appointment-add-prescription-php-2021-10-03-10_20_31](https://user-images.githubusercontent.com/85606009/135740432-2be82cbe-4fec-4e60-8302-3a7d37e76cea.png)
 ![screencapture-localhost-OST-Doctor-Appointment-view-myappointmentsdoc-php-2021-10-03-10_20_41](https://user-images.githubusercontent.com/85606009/135740438-495bd354-a799-469b-8a72-cd30f15accf5.png)
 
-      After the doctor has added the prescription , patient will be able to view it.
+    Now the patient will be able to see the prescrption added by the doctor
+![screencapture-localhost-OST-Doctor-Appointment-patient-login-php-2021-10-03-10_05_47](https://user-images.githubusercontent.com/85606009/135740560-60afa84e-098a-4a53-b553-3f565154ee01.png)
+ 
 ![screencapture-localhost-OST-Doctor-Appointment-view-myappointments-php-2021-10-03-10_15_10](https://user-images.githubusercontent.com/85606009/135740442-d9557d5a-fe40-4c76-a14f-07ba6018a09c.png)
