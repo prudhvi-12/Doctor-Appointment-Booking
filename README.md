@@ -17,8 +17,8 @@ All Appointments booked by patient
 
 ![screencapture-localhost-OST-Doctor-Appointment-view-myappointments-php-2021-10-03-10_08_48](https://user-images.githubusercontent.com/85606009/135740380-b68ba325-9e2b-4549-b219-e0e4e2e87ec1.png)
 
- 
-![screencapture-localhost-OST-Doctor-Appointment-add-prescription-php-2021-10-03-10_20_31](https://user-images.githubusercontent.com/85606009/135740709-8341e5bb-a02a-4803-abc8-3f4c9d33f2d3.png)
+  
+![screencapture-localhost-OST-Doctor-Appointment-doctor-login-php-2021-10-03-10_27_12](https://user-images.githubusercontent.com/85606009/135740753-95cc5f4a-962a-460e-b93b-30c914c847ea.png)
 
      Doctor adding prescription 
 ![screencapture-localhost-OST-Doctor-Appointment-add-prescription-php-2021-10-03-10_20_31](https://user-images.githubusercontent.com/85606009/135740643-408663d1-229c-477c-9d86-a5612ee56b53.png)
